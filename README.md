@@ -6,7 +6,6 @@
 🔭 Atualmente cursando Sistemas de Informação no IFNMG (8º período)<br>
 💼 Acessor da Gerência de Projetos na SIFSOFT Empresa Júnior<br>
 🌱 Focado em desenvolvimento Full-Stack<br>
-🤝 Buscando oportunidade de estágio em desenvolvimento web<br>
 🎯 Interessado em Back-end, IA e soluções inteligentes
 
 ### 🛠️ MINHAS TECNOLOGIAS:
